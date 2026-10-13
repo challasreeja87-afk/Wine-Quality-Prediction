@@ -1,25 +1,30 @@
-# Wine-Quality-Prediction
+# Wine Quality Prediction Using XGBoost and LightGBM with Hyperparameter Tuning
 
-Wine Quality Prediction Using XGBoost and LightGBM with Hyperparameter Tuning
+### Submitted by:
 
-Machine Learning (25CS2103E)
+U. Varshitha(2520030206), 
 
-A.Y. 2026-2027
+Ch. Sreeja(2520030219)
 
-Submitted by:
-
-U. Varshitha (2520030206)
-
-Ch. Sreeja (2520030219)
-
-Section: 5
-
-Under the guidance of
+### Under the guidance of
 
 Ms. Rani
 
 
-ABSTRACT:
+🚀 **Live Website:** [Open Wine Quality Prediction App](https://wine-quality-prediction-sxjqkaj96aobhbbxsmpf8r.streamlit.app/)
+
+A Machine Learning project that predicts wine quality using physicochemical properties and compares models including XGBoost and LightGBM.
+
+**Technologies:** Python, Streamlit, Pandas, Scikit-learn, XGBoost, LightGBM.
+
+## Features
+- Wine quality prediction
+- Exploratory Data Analysis (EDA)
+- Model performance comparison
+- Feature importance visualization
+
+
+## ABSTRACT:
 
 Wine quality prediction is an important machine learning application that helps
 estimate the quality of wine based on its physicochemical properties. This
