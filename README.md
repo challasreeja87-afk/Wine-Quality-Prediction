@@ -1,13 +1,21 @@
 # Wine-Quality-Prediction
 
 Wine Quality Prediction Using XGBoost and LightGBM with Hyperparameter Tuning
+
 Machine Learning (25CS2103E)
+
 A.Y. 2026-2027
+
 Submitted by:
+
 U. Varshitha (2520030206)
+
 Ch. Sreeja (2520030219)
+
 Section: 5
+
 Under the guidance of
+
 Ms. Rani
 
 
